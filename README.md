@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java With Spring Boot**
 
-- 💬 Ask me about **python**
+- 💬 Ask me about **Data Science**
 
 - 📫 How to reach me **kritisingh1659@gmail.com**
 
@@ -32,5 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritisingh196&show_icons=true&locale=en" alt="pritisingh196" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritisingh196&" alt="pritisingh196" /></p>
-
-

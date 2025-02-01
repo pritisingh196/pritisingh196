@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm priti singh</h1>
-<h3 align="center">Software And web development passionate about Data science</h3>
+<h3 align="center">Software Engineer & Data Science Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritisingh196&label=Profile%20views&color=0e75b6&style=flat" alt="pritisingh196" /> </p>
 
